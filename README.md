@@ -14,7 +14,7 @@ Welcome to my portfolio website! This repository contains the code for my person
 - HTML5: For structuring the content.
 - CSS: For styling and layout.
 - JavaScript: For interactive elements.
-- React: For building the user interface (if applicable).
+- React: For building the user interface.
 
 ## Getting Started
 
